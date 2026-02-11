@@ -1,10 +1,10 @@
 # pip
 Библиотеки:
 
-pip install pyTelegramBotAPI
-pip install pyautogui
-pip install mouse
-pip install pyscreeze
+1. pip install pyTelegramBotAPI
+2. pip install pyautogui
+3. pip install mouse
+4. pip install pyscreeze
 
 # S1eepRatV1
 Скрипт сырой, но написан.
